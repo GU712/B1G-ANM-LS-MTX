@@ -1,0 +1,82 @@
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>	
+<title>[B][COLOR white]NOMEDOFILME (DATA)[/COLOR][/B]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - DUB - LEGFIX[/B][/COLOR]</link>	
+	
+<thumbnail>ICONE</thumbnail>	
+<fanart>FUNDO</fanart>	
+<info>SINOPSE</info>	
+<genre>GENERO</genre>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>	
+<title>[B][COLOR white]NOMEDOFILME (DATA) [/COLOR][/B]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - DUB - LEGFIX[/B][/COLOR]</link>	
+	
+<thumbnail>ICONE</thumbnail>	
+<fanart>FUNDO</fanart>	
+<info>SINOPSE</info>	
+<genre>GENERO</genre>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>	
+<title>[B][COLOR white]NOMEDOFILME (DATA) [/COLOR][/B]</title>	
+	
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - HD DUAL[/B][/COLOR]</link>	
+	
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUAL[/B][/COLOR]</link>	
+	
+<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NOMEDOFILME - DUB - LEGFIX[/B][/COLOR]</link>	
+	
+<thumbnail>ICONE</thumbnail>	
+<fanart>FUNDO</fanart>	
+<info>SINOPSE</info>	
+<genre>GENERO</genre>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+	
+<item>	
+<title>[COLOR black].[/COLOR]</title>	
+<link>ignoreme</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>	
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?	
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>	
+<link>ignoreme</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
