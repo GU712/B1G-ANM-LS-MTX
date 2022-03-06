@@ -12,6 +12,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]A Casa Coruja (0000-0000)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C2-SRS-A.Casa.Coruja-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/mxsDvwgxxUGCetnKAerWUsMk2vY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r1p7PmjOeI7OsbZlFxEGsG3qiQq.jpg</fanart>
+<info>Assista a série A Casa Coruja. 
+[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+[COLOR orange][B]02 TEMPS - 28 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2020 a 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Monstros no Trabalho (2021)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C1-SRS-Monstros.no.Trabalho-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
