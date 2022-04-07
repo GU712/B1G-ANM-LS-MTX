@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C-SRS-ANM-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1G-ANM-LS-MTX/main/C-SRS-ANM-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]A Casa Coruja (2020-2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C2-SRS-A.Casa.Coruja-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1G-ANM-LS-MTX/main/C2-SRS-A.Casa.Coruja-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/mxsDvwgxxUGCetnKAerWUsMk2vY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r1p7PmjOeI7OsbZlFxEGsG3qiQq.jpg</fanart>
 <info>Assista a série A Casa Coruja. 
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Monstros no Trabalho (2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C1-SRS-Monstros.no.Trabalho-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1G-ANM-LS-MTX/main/C1-SRS-Monstros.no.Trabalho-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8li3iky213amG0eI1wYpfkUp3HO.jpg</fanart>
 <info>Assista aqui os episodios da série NOMEDASERIE. 
@@ -39,22 +39,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
-<externallink><LINKDAPAGINAALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
-[COLOR orange][B]00 TEMPs - 00 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C-SRS-ANM-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1G-ANM-LS-MTX/main/C-SRS-ANM-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -65,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
 SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/C-SRS-ANM-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1G-ANM-LS-MTX/main/C-SRS-ANM-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
 </channel>
