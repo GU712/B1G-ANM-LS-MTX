@@ -34,24 +34,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>
-<title>[COLOR orange][B]SERVER LS-2[COLOR yellow] -> [COLOR white]TESTE (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/bavxd8azdbs2</link>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info><SINOPSE></info>
-<genre>GENERO</genre>
-</item>
-
-<item>
-<title>[COLOR orange][B]SERVER LS-2[COLOR yellow] -> [COLOR white]TESTE2 (DATA)[/B][/COLOR]</title>
-<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/ns1pwpk3xz1g</link>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info><SINOPSE></info>
-<genre>GENERO</genre>
-</item>
 	
 <item>	
 <title>[COLOR black].[/COLOR]</title>	
